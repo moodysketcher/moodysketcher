@@ -1,0 +1,93 @@
+
+body{
+	margin: 0;
+}
+#header{
+	background-color: #264e70;
+	height: 90px;
+	font-size: 50px;
+	text-align: center;
+	padding-top: 20px;
+	position: relative;
+	text-transform: uppercase;
+	color: white;
+	font-family: cursive;
+}
+
+
+/*image Slider*/
+#picture{
+	width: 49%;
+	padding: 2px;
+	position: relative;
+	float: left;
+	border-radius: 5%;
+}
+
+#slider_img{
+	width: 100%;
+}
+
+/*contact div
+*/
+#contact_div{
+	background-color: #f9b4ab;
+	height: 200px;
+	text-align: center;
+	color: #679186;
+	padding-top: 2%;
+	font-size: 30px;
+	font-family: cursive;
+}
+
+/*Main images*/
+#main_div{
+	position: absolute;
+}
+
+#sub_div{
+	position: relative;
+	float: left;
+	width: 16.66%;
+}
+#sub_div_pic{
+	padding: 5px;
+	width: 100%;
+	border-radius: 5%;
+}
+
+#sub_div_pic:hover{
+	transform: scale(1.1);
+}
+
+#quot1{
+	background-color: #bbd4ce;
+	height: 50px;
+	text-align: center;
+	color: #679186;
+	padding-top: 2%;
+	font-size: 10px;
+	font-family: cursive;
+}
+
+#quot2{
+	background-color: #f9b4ab;
+	height: 50px;
+	text-align: center;
+	color: #679186;
+	padding-top: 2%;
+	font-size: 10px;
+	font-family: cursive;
+}
+
+#quot3{
+	background-color: #bbd4ce;
+	height: 50px;
+	text-align: center;
+	color: #679186;
+	padding-top: 2%;
+	font-size: 10px;
+	font-family: cursive;
+}
+
+
