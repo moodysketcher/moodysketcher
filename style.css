@@ -17,6 +17,11 @@ body{
 	color: white;
 }
 
+/*welcome*/
+#welcome img{
+	width: 100%;
+}
+
 /*image Slider*/
 #picture{
 	width: 49%;
@@ -33,12 +38,12 @@ body{
 /*contact div
 */
 #contact_div{
-	background-color: #f9b4ab;
+	background-color: #F46A53;
 	height: 200px;
 	text-align: center;
-	color: #679186;
+	color: #854237;
 	padding-top: 2%;
-	font-size: 30px;
+	font-size: 35px;
 	font-family: cursive;
 }
 
@@ -63,12 +68,11 @@ body{
 	transform: scale(1.1);
 }
 
-/*sub_index.html
-*/
-#sub_index_head_image{
-	background-color: #f9b4ab;
+/*quot*/
+#quot{
+	padding-top: 47%;
 }
-#sub_index_head_image img{
-	height:500px;
-	padding-left: 35%;
+#quot img{
+	padding: 20px;
+	width: 100%;
 }
